@@ -40,8 +40,11 @@ Solana Multi Collection NFT staking
 The Koromaru is a p2e battle game on BSC
 
 - Original Link: <a href="https://d3fqtz6zjfopso.cloudfront.net" target="_blank">Koromaru</a>
+
 - Video Link: <a href="https://www.loom.com/share/7561a1264473489596e5abb4508a9506" target="_blank">Here</a>
+
   - Attractive game 2d/3d fighting effects with Unity
+  
   - Improved game engine with UFE(Universal Fighting Engine)
 
 
