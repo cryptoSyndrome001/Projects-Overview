@@ -58,6 +58,8 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 - Original Link: <a href="https://crosmoshooter.com/" target="_blank">Crosmo Shooter</a>
 - Video Link: <a href="https://www.loom.com/share/5639a8fb5f9746e49b5cf8c6df11344b" target="_blank">Here</a>
   - Only Crosmo NFT holders can play game
+  - Game effects with three.js & react
+  - Modularize of game with phaser
 
 <h3><u><strong><i>Crypto Legions Game</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
