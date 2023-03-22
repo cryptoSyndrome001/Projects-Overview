@@ -1,4 +1,4 @@
-# Blockchain Projects: (Solana / Ethereum / Binance - EVM / NEAR)
+# Blockchain Projects: (EVM / Solana / NEAR)
 
 As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
@@ -35,7 +35,7 @@ Solana Multi Collection NFT staking
 <h3><u><strong><i>Koromaru Game</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
-<img align="right" height = "250px" src="./assets/bonespoker.png" >
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226955760-18c8a54c-4639-4cf9-a346-3f4fc1ff830e.png" >
 
 The Koromaru is a p2e battle game on BSC
 
@@ -45,7 +45,7 @@ The Koromaru is a p2e battle game on BSC
 <h3><u><strong><i>Crosmo Shooter Game</i></strong></u> &nbsp;(Cronos)</h3>
 <hr />
 
-<img align="right" height = "250px" src="./assets/bonespoker.png" >
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226956013-dcb8b248-101b-4299-b09c-7962b07b8525.png" >
 
 The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 
@@ -56,7 +56,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i>Crypto Legions Game</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
-<img align="right" height = "250px" src="./assets/bonespoker.png" >
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226956513-8f36e832-e531-4934-84d4-fcdf76caaf27.png" >
 
 The Crypto Legions is a nft p2e game to get reward by hunting monsters is playing on Binance Smart Chain (BSC)
 
@@ -70,26 +70,10 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
-<h3><u><strong><i>Crypto Legions Game</i></strong></u> &nbsp;(BSC)</h3>
-<hr />
-
-<img align="right" height = "250px" src="./assets/bonespoker.png" >
-
-The Crypto Legions is a nft p2e game to get reward by hunting monsters is playing on Binance Smart Chain (BSC)
-
-- Testnet Link: <a href="https://test.cryptolegions.app" target="_blank">CryptoLegions Testnet</a>
-- Original Link: <a href="https://cryptolegions.app/" target="_blank">CryptoLegions</a>
-  - Players can buy BLV3 token on Pancakeswap.
-  - Players can sell or buy their NFTs in internal marketplace
-  - Players can earn the reward by hunting monsters
-
-
-- Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
-
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
-<img align="right" height = "250px" src="./assets/bonespoker.png" >
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226956947-421df2df-ab3d-4856-ae83-a76b6d17f339.png" >
 
 The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
 
@@ -440,7 +424,7 @@ Now I am working on this project and we are releasing this in Apirl.
 <h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "220px" src="./assets/luvami-gambling.png" >
+<img align="right" height = "220px" src="https://user-images.githubusercontent.com/90205652/226957643-ad9a393c-ea1b-4f37-b662-971df15acd84.png" >
 
 This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
 
