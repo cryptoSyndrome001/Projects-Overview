@@ -81,7 +81,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
 
-<!-- 
+
 
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -110,7 +110,6 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
--->
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
