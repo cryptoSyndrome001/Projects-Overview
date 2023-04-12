@@ -81,7 +81,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
 
-
+<!--
 
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -110,7 +110,7 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
-
+-->
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -399,7 +399,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-
+<!--
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
@@ -411,7 +411,7 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-
+-->
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
