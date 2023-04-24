@@ -81,7 +81,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
 
-<!--
+<!---->
 
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -96,7 +96,7 @@ The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
 
 
 - Social Link: <a href="https://twitter.com/bonesdao" target="_blank">The Bones-Poker</a>
-
+<!--
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
@@ -110,7 +110,7 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
--->
+
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -134,7 +134,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 
-
+-->
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
 
@@ -474,7 +474,7 @@ Now two things can happen (already coded in compound). Interest is accumulating,
 
 - Original Link: <a href="https://honey.finance" target="_blank"> Honey Finance </a>
 
-
+<!--
 <h3><u><strong><i>FoxFinance</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
@@ -483,7 +483,7 @@ Now two things can happen (already coded in compound). Interest is accumulating,
 We’ll also be hosting a charity auction with the winning artwork, allowing the FOX community to own a piece of history in the form of an NFT, with proceeds going to a wildlife-oriented charity we plan to reveal it soon.
 
 - Original Link: <a href="https://foxfinance.io/Marketplace" target="_blank">Fox Finance</a>
-
+-->
 
 <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -505,7 +505,7 @@ to access the DUNK token distribution. The NFT staking mechanism allows the DUNK
   - <a href="https://twitter.com/SeaSuperkongs" target="_blank"> SuperKongs-Twitter </a>
   - <a href="https://www.instagram.com/seattlesuperkongs/?hl=en" target="_blank"> SuperKongs-Instagram </a>
 
-
+<!--
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
@@ -517,3 +517,4 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
 
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
+-->
