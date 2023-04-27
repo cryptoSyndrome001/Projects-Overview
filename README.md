@@ -32,7 +32,7 @@ Solana Multi Collection NFT staking
   - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
 -->
-<h3><u><strong><i>Koromaru Game</i></strong></u> &nbsp;(BSC)</h3>
+<h3><u><strong><i>Koromaru Game</i></strong></u> &nbsp;(BSC)  Emploice</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226955760-18c8a54c-4639-4cf9-a346-3f4fc1ff830e.png" >
