@@ -460,7 +460,7 @@ In this smart contract, I built WL Member Function, OG Member Function, and Reve
 - Original Link: <a href="https://www.laidbackllamas.com" target="_blank">Laid Back Llamas</a>
 - <h5>NDA</h5>
 
-
+<!--
 <h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(AVALANCHE/SOLANA)</h3>
 <hr />
 
@@ -473,7 +473,7 @@ So you deposit this collateral, we see it belongs to collection X so the floor p
 Now two things can happen (already coded in compound). Interest is accumulating, either you pay back the loan + interest and it sends your collateral back, or the loan + interest is too high and it sends it to a liquidation smart contract. 
 
 - Original Link: <a href="https://honey.finance" target="_blank"> Honey Finance </a>
-
+-->
 <!--
 <h3><u><strong><i>FoxFinance</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
