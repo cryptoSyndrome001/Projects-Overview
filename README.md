@@ -81,7 +81,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
 
-
+<!--
 
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -96,7 +96,7 @@ The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
 
 
 - Social Link: <a href="https://twitter.com/bonesdao" target="_blank">The Bones-Poker</a>
-
+-->
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
