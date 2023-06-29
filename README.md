@@ -1,9 +1,8 @@
 # Blockchain Projects: (EVM / Solana / NEAR / Aptos)
 
 Here are crypto NFT & Defi projects like mint, staking, marketplace, launchpad, raffle, auction, p2e games (dice, coinflip, poker, battle games), swap projects which 0xBear built so far.
+All repos are private
 
-
-As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, poker,zand made smart contracts and utility tokens. All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
