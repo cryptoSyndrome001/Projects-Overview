@@ -64,7 +64,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 
 <h3><u><strong><i>GODz Community</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
-<img align="right" height = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/bac6a2ec-e34d-4318-94a7-b3933836875d.png" >
+<img align="right" width = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/bac6a2ec-e34d-4318-94a7-b3933836875d.png" >
 
 This is a GODz community with `$MYTH` on solana blockchain. This platform consists of launchpad, raffle, mini-services, sacrifice as well as minting site
 
@@ -86,7 +86,7 @@ This is a GODz community with `$MYTH` on solana blockchain. This platform consis
 <h3><u><strong><i>Rfrsh Dashboard</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/3c5cc977-b1c5-4b66-9eae-d83429c6e4e1.png" >
+<img align="right" width = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/3c5cc977-b1c5-4b66-9eae-d83429c6e4e1.png" >
 This is a nft management tooling on Solana.
 
 - Site Link: <a href="https://rfrsh.io/" target="_blank">Rfrsh</a>
@@ -269,7 +269,10 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 
 This is a staking project on NEAR protocol. Users can stake their nfts on 2 collections and get `$ANC` as a reward.
 
+
 - Original Link: <a href="https://staking.vexedapesclub.com/" target="_blank">VexedApesClub Staking</a>
+<br /><br /><br />
+
 
 
 <h3><u><strong><i>DOOMSLUG Mint</i></strong></u> &nbsp;(NEAR)</h3>
@@ -279,6 +282,7 @@ This is a staking project on NEAR protocol. Users can stake their nfts on 2 coll
 
 
 NFT mint project on NEAR protocol
+<br />
 Fair Launch, No whitelist with 5 NEAR
 
 - Original Link: <a href="https://doomslug.io" target="_blank">Doomslug Mint</a>
