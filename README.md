@@ -216,7 +216,7 @@ Solana Multi Collection NFT staking
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-<img align="right" height = "150px" src="https://miro.medium.com/fit/c/224/224/1*BO6BjA_v82dT7w-ny7V7GQ.jpeg" >
+<img align="right" height = "250px" src="https://miro.medium.com/fit/c/224/224/1*BO6BjA_v82dT7w-ny7V7GQ.jpeg" >
 
 This is the easy NFT minting site which has one landig page.
 
