@@ -64,6 +64,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 
 <h3><u><strong><i>GODz Community</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<img align="right" height = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/bac6a2ec-e34d-4318-94a7-b3933836875d.png" >
 
 This is a GODz community with `$MYTH` on solana blockchain. This platform consists of launchpad, raffle, mini-services, sacrifice as well as minting site
 
@@ -85,6 +86,7 @@ This is a GODz community with `$MYTH` on solana blockchain. This platform consis
 <h3><u><strong><i>Rfrsh Dashboard</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
+<img align="right" height = "300px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/3c5cc977-b1c5-4b66-9eae-d83429c6e4e1.png" >
 This is a nft management tooling on Solana.
 
 - Site Link: <a href="https://rfrsh.io/" target="_blank">Rfrsh</a>
@@ -97,7 +99,7 @@ This is a nft management tooling on Solana.
   - <a href="https://discord.com/invite/blankpage" target="_blank">Rfrsh Discord</a>
 
 
-<h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/90205652/226956947-421df2df-ab3d-4856-ae83-a76b6d17f339.png" >
@@ -110,7 +112,7 @@ The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
 
 - Social Link: <a href="https://twitter.com/bonesdao" target="_blank">The Bones-Poker</a>
 
-<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
+<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
@@ -124,10 +126,10 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
 
-<h3><u><strong><i>Dreammy Dice Roll</i></strong></u> &nbsp;(SOLANA)</h3>
+<h3><u><strong><i>Dreammy Dice Roll</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
+<img align="right" height = "250px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/f61381aa-7334-47ba-bc14-002eed223a4b.png" >
 
 The DDR is a gambling site which users can bet sol and can win or lose due to the random result of the smart contract.
 
@@ -188,7 +190,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 <h3><u><strong><i>Waxel World</i></strong></u> &nbsp;(WAX)</h3>
 <hr />
 
-<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+<img align="right" height = "200px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/4dd2a835-f4b3-4c47-8f4e-5d73df84e524.png" >
 
 
 As Waxel World is a blockchain / NFT game, things work a bit differently compared to traditional games. For example most actions are done directly on the blockchain and the processing of data can take several seconds compared to traditional games were most things are instant.
@@ -262,7 +264,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 <h3><u><strong><i>VexedApesClub Staking</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
 
-<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+<img align="right" height = "200px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/42546e78-f011-44a4-9634-f9ac8c6af0e4.png" >
 
 
 This is a staking project on NEAR protocol. Users can stake their nfts on 2 collections and get `$ANC` as a reward.
@@ -273,7 +275,7 @@ This is a staking project on NEAR protocol. Users can stake their nfts on 2 coll
 <h3><u><strong><i>DOOMSLUG Mint</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
 
-<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+<img align="right" height = "200px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/4e31389f-5528-4af3-a559-6c2e99290140.png" >
 
 
 NFT mint project on NEAR protocol
