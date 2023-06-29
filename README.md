@@ -3,7 +3,6 @@
 Here are crypto NFT & Defi projects like mint, staking, marketplace, launchpad, raffle, auction, p2e games (dice, coinflip, poker, battle games), swap projects which 0xBear built so far.
 All repos are private
 
-
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
