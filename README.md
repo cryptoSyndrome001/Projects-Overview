@@ -1,6 +1,9 @@
-# Blockchain Projects: (EVM / Solana / NEAR)
+# Blockchain Projects: (EVM / Solana / NEAR / Aptos)
 
-As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
+Here are crypto NFT & Defi projects like mint, staking, marketplace, launchpad, raffle, auction, p2e games (dice, coinflip, poker, battle games), swap projects which 0xBear built so far.
+
+
+As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, poker,zand made smart contracts and utility tokens. All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -11,27 +14,8 @@ Multiple Factor Rewards Staking program for Shred NFT collections
   - By staking Shredded Ape, you are sending him to our private gym on the moon. For each day your ape is working out, he'll be getting a paid in $WHEY. It's up to you to decide for how long you want to send your apes to the gym - you can cancel the staking and receive earned rewards at any given time.
   - AMOUNT EARNED: 10 $WHEY / Ape staked / Day. Staking 3 or more apes will multiply the amount of $WHEY earned by x1.25
 - Original Link: <a href="https://shreddedapes.io" target="_blank">Shredded Apes<a/>
-
-<h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Stake Goblin NFTs on Solana using Rust/React and Web3. Staked NFTs are locked in 15 days.
-
-- Staking Link: <a href="https://stake.goblinarmy.io" target="_blank">Staking Goblin</a>
-- Original Link: <a href="https://goblinarmy.io" target="_blank">Goblin Army</a>
-  
-<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Solana Multi Collection NFT staking
-
-- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
-  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
-  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
-  - Staking will be limited to 3 farmers and 3 animals per land plot.
-  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
-- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
 -->
+
 <h3><u><strong><i>Koromaru Game</i></strong></u> &nbsp;(BSC)  Emploice</h3>
 <hr />
 
@@ -46,7 +30,6 @@ The Koromaru is a p2e battle game on BSC
   - Attractive game 2d/3d fighting effects with Unity
   
   - Improved game engine with UFE(Universal Fighting Engine)
-
 
 <h3><u><strong><i>Crosmo Shooter Game</i></strong></u> &nbsp;(Cronos)</h3>
 <hr />
@@ -77,11 +60,43 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
   - Players can sell or buy their NFTs in internal marketplace
   - Players can earn the reward by hunting monsters
 
-
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
 
 
-<!--
+<h3><u><strong><i>GODz Community</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a GODz community with `$MYTH` on solana blockchain. This platform consists of launchpad, raffle, mini-services, sacrifice as well as minting site
+
+- Site Link: <a href="https://godznft.com/" target="_blank">GODz community (Launchpad & Raffle & Marketplace)</a>
+  - <a href="https://godznft.com/incubator" target="_blank">Launchpad</a> : Register collection with google auth from <a href="https://forms.gle/rFyrSGjGFtJUL6dE6" target="_blank">here</a>
+  - <a href="https://godznft.com/rafflez/" target="_blank">Raffle</a> : Users took part in admin created raffles with `$MYTH`
+  - <a href="https://godznft.com/rafflez/" target="_blank">Service Market</a> : Users can get provided several services like mini-games, discord bot etc with `$MYTH`
+  - <a href="https://goats-mint-page.vercel.app/" target="_blank">Goats Collection Mint</a>
+  - <a href="https://goats-mint-page-grrcalwz0-cryptosyndrome001.vercel.app/" target="_blank">Goats Collection Devnet Mint</a>
+  - <a href="https://goats-sacrifice-page.vercel.app/" target="_blank">Goats Sacrifice</a> : Users can burn goats nfts with SOL/$MYTH to get a new nft
+  - <a href="https://goats-sacrifice-page.vercel.app/" target="_blank">`$MYTH`</a> Token
+
+- Social Link: 
+  - <a href="https://twitter.com/nft_godz" target="_blank">GODz Twitter</a>
+  - <a href="https://discord.gg/nftgodz" target="_blank">GODz Discord</a>
+  - <a href="https://magiceden.io/marketplace/godz_of_solaria_" target="_blank">MagicEden</a>
+
+
+<h3><u><strong><i>Rfrsh Dashboard</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a nft management tooling on Solana.
+
+- Site Link: <a href="https://rfrsh.io/" target="_blank">Rfrsh</a>
+  - Users can watch their holding collection price updates in real time
+  - Users can classify their nfts and filter to watch them
+  - Users can set notification to the nfts & collection and could be notified through email, SMS, site supported from Dialect
+
+- Social Link: 
+  - <a href="https://twitter.com/rfrshnft" target="_blank">Rfrsh Twitter</a>
+  - <a href="https://discord.com/invite/blankpage" target="_blank">Rfrsh Discord</a>
+
 
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -94,9 +109,8 @@ The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
   - You can play on game table and tournament table by paying SOL & spl-tokens
   - Blind is auto-increasing, AFK mode is provided
 
-
 - Social Link: <a href="https://twitter.com/bonesdao" target="_blank">The Bones-Poker</a>
--->
+
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
@@ -110,6 +124,43 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
 
 
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
+
+<h3><u><strong><i>Dreammy Dice Roll</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
+
+The DDR is a gambling site which users can bet sol and can win or lose due to the random result of the smart contract.
+
+- Original Link: <a href="https://ddr-dice-frontend.vercel.app/" target="_blank">Dreamy Dice Roll</a>
+  - Users can roll one dice at once 
+  - Users can bet sol in various range
+  - The result is shown within 30 sec, and due to the result users can claim or replay the game
+
+- Social Link: <a href="https://twitter.com/DreamyDiceRoll" target="_blank">The DDR-twitter</a>
+
+
+<h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" height = "220px" src="https://user-images.githubusercontent.com/90205652/226957643-ad9a393c-ea1b-4f37-b662-971df15acd84.png" >
+
+This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
+
+- Live Link: <a href="https://dice-game-frontend.vercel.app/" target="_blank">Luvami Gambling</a>
+  - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
+  - If you win, you receive the 2 times, you earn
+  - If you lost, you can't receive at all.
+
+
+<h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Stake Goblin NFTs on Solana using Rust/React and Web3. Staked NFTs are locked in 15 days.
+
+- Staking Link: <a href="https://stake.goblinarmy.io" target="_blank">Staking Goblin</a>
+- Original Link: <a href="https://goblinarmy.io" target="_blank">Goblin Army</a>
+
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -134,6 +185,105 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 
+
+<h3><u><strong><i>Waxel World</i></strong></u> &nbsp;(WAX)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+
+
+As Waxel World is a blockchain / NFT game, things work a bit differently compared to traditional games. For example most actions are done directly on the blockchain and the processing of data can take several seconds compared to traditional games were most things are instant.
+
+- Original Link: <a href="https://waxel.net/" target="_blank">Waxel World</a>
+
+- Social Link: <a href="https://twitter.com/waxel_nft" target="_blank">Waxel World-twitter</a>
+
+
+<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Solana Multi Collection NFT staking
+
+- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
+  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
+  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
+  - Staking will be limited to 3 farmers and 3 animals per land plot.
+  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
+- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
+
+
+<h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" height = "150px" src="https://miro.medium.com/fit/c/224/224/1*BO6BjA_v82dT7w-ny7V7GQ.jpeg" >
+
+This is the easy NFT minting site which has one landig page.
+
+In this project, I built the NFT minting contract by using Solidity. 
+In this smart contract, I built WL Member Function, OG Member Function, and Reveal Time Function. Before reveal time ends, you can’t see your NFTs. It uses the different metadata URIs.
+
+- Original Link: <a href="https://www.laidbackllamas.com" target="_blank">Laid Back Llamas</a>
+- <h5>NDA</h5>
+
+
+<h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" width = "350px" src="https://user-images.githubusercontent.com/29230603/183615605-20e9fed4-b8ce-4e3f-8020-843e91b5f99c.png" >
+
+30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
+to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
+
+- Original Link: <a href="https://superkongz-staking.netlify.app/" target="_blank">Seattle_SuperKongs_Staking</a>
+
+- Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
+
+- Github repo: 
+  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_FE" target="_blank">FrontEnd Code</a>
+  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_contract" target="_blank">NFT Staking Smart Contract Code</a>
+  - <a href="https://github.com/Seattle-SuperKongs/DUNK_token_contract" target="_blank">DUNK Token Smart Contract Code</a>
+- Social Link:
+  - <a href="https://twitter.com/SeaSuperkongs" target="_blank"> SuperKongs-Twitter </a>
+  - <a href="https://www.instagram.com/seattlesuperkongs/?hl=en" target="_blank"> SuperKongs-Instagram </a>
+
+
+<h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+
+
+We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store your NFT’s for the next year. We’re going to lock them in an old vault and keep a watchful eye on them. Like anything put in storage it will get $Dusty over time. In fact at the end of 12 months you can withdraw your NFT, plus your original funds, plus all your accumulated $Dusty tokens.
+
+- Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
+
+- Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
+
+
+<h3><u><strong><i>VexedApesClub Staking</i></strong></u> &nbsp;(NEAR)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+
+
+This is a staking project on NEAR protocol. Users can stake their nfts on 2 collections and get `$ANC` as a reward.
+
+- Original Link: <a href="https://staking.vexedapesclub.com/" target="_blank">VexedApesClub Staking</a>
+
+
+<h3><u><strong><i>DOOMSLUG Mint</i></strong></u> &nbsp;(NEAR)</h3>
+<hr />
+
+<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
+
+
+NFT mint project on NEAR protocol
+Fair Launch, No whitelist with 5 NEAR
+
+- Original Link: <a href="https://doomslug.io" target="_blank">Doomslug Mint</a>
+
+
+<!-- 
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
@@ -228,7 +378,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 <img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
 
-- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
+- Create KCRWN token: Link <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
 - Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
@@ -242,7 +392,6 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 Staking an SPL token "FLWR"
 
-<!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
 - Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
 - Live Link: <a href="https://flwrstaking.solflowers.io">SOL Flowers Staking</a>
   - number of flwr (spl-token) - 50/75/100%
@@ -353,7 +502,6 @@ This is raffle/auction houses of tombstoned application on Solana network.
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
 
-<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
 
 Nifty Nanas.<br />
@@ -399,7 +547,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-<!--
+
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
@@ -411,7 +559,7 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
--->
+
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -433,32 +581,8 @@ Now I am working on this project and we are releasing this in Apirl.
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
 
+-->
 
-<h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220px" src="https://user-images.githubusercontent.com/90205652/226957643-ad9a393c-ea1b-4f37-b662-971df15acd84.png" >
-
-This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
-
-- Link: <a href="https://dice-game-frontend.vercel.app/" target="_blank">Luvami Gambling</a>
-  - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
-  - If you win, you receive the 2 times, you earn
-  - If you lost, you can't receive at all.
-
-
-<h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" height = "150px" src="https://miro.medium.com/fit/c/224/224/1*BO6BjA_v82dT7w-ny7V7GQ.jpeg" >
-
-This is the easy NFT minting site which has one landig page.
-
-In this project, I built the NFT minting contract by using Solidity. 
-In this smart contract, I built WL Member Function, OG Member Function, and Reveal Time Function. Before reveal time ends, you can’t see your NFTs. It uses the different metadata URIs.
-
-- Original Link: <a href="https://www.laidbackllamas.com" target="_blank">Laid Back Llamas</a>
-- <h5>NDA</h5>
 
 <!--
 <h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(AVALANCHE/SOLANA)</h3>
@@ -483,38 +607,4 @@ Now two things can happen (already coded in compound). Interest is accumulating,
 We’ll also be hosting a charity auction with the winning artwork, allowing the FOX community to own a piece of history in the form of an NFT, with proceeds going to a wildlife-oriented charity we plan to reveal it soon.
 
 - Original Link: <a href="https://foxfinance.io/Marketplace" target="_blank">Fox Finance</a>
--->
-
-<h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width = "350px" src="https://user-images.githubusercontent.com/29230603/183615605-20e9fed4-b8ce-4e3f-8020-843e91b5f99c.png" >
-
-30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
-to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
-
-- Original Link: <a href="https://superkongz-staking.netlify.app/" target="_blank">Seattle_SuperKongs_Staking</a>
-
-- Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
-
-- Github repo: 
-  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_FE" target="_blank">FrontEnd Code</a>
-  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_contract" target="_blank">NFT Staking Smart Contract Code</a>
-  - <a href="https://github.com/Seattle-SuperKongs/DUNK_token_contract" target="_blank">DUNK Token Smart Contract Code</a>
-- Social Link:
-  - <a href="https://twitter.com/SeaSuperkongs" target="_blank"> SuperKongs-Twitter </a>
-  - <a href="https://www.instagram.com/seattlesuperkongs/?hl=en" target="_blank"> SuperKongs-Instagram </a>
-
-<!--
-<h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
-<hr />
-
-<img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
-
-
-We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store your NFT’s for the next year. We’re going to lock them in an old vault and keep a watchful eye on them. Like anything put in storage it will get $Dusty over time. In fact at the end of 12 months you can withdraw your NFT, plus your original funds, plus all your accumulated $Dusty tokens.
-
-- Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
-
-- Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 -->
